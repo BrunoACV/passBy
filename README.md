@@ -1,1 +1,1 @@
-# passBy
+Este foi um projeto que desenvolvi em equipe na faculdade na matéria de programação orientada a objetos. Passby é uma aplicação visando facilitar taferas de gerenciamento em condomínio. Essa aplicação tem divérsas funções úteis, tais como cadastrar apartamentos, pessoas, visitantes, funcionários, gerar boletim de ocorrência, dentre outras fuincionalidades.
