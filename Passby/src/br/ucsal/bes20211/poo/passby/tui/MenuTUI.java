@@ -19,7 +19,7 @@ public class MenuTUI {
 	}
 	
 	private static void exibir() {
-		System.out.println("\n################# MENU #################");
+		System.out.println("\n################## MENU ##################");
 		for (MenuOpcoesEnum menuOpcao : MenuOpcoesEnum.values()) {
 			if(menuOpcao.getCodigo() != 14)
 			System.out.println(menuOpcao.obterDescricaoCompleta());
